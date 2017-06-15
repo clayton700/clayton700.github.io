@@ -1,0 +1,70 @@
+
+
+
+aside{
+	display: block;	
+    float:left;
+	width:300px;
+	font-family: 'Barrio', cursive;
+	font-family: 'Indie Flower', cursive;
+	background-color: #ff8a23;	
+}
+footer {
+  //position:absolute;
+  //bottom:0;
+  clear: both;
+  border-top: 1px solid #606060;
+  background-color: #ff8a23;
+  text-align:center;
+    font-family: 'Barrio', cursive;
+	font-family: 'Indie Flower', cursive;
+}
+.imagem{
+       
+	display:table-cell;
+	float:right;
+}
+.texto{
+	display:table-cell;
+	float:left;
+	width:280px;
+	font-family: 'Barrio', cursive;
+	font-family: 'Indie Flower', cursive;
+}
+.imagem2{
+	display:table-cell;    
+	float:left
+}
+.texto2{
+	display:table-cell;
+	float:right;
+	width:280px;
+	font-family: 'Barrio', cursive;
+	font-family: 'Indie Flower', cursive;
+}
+.corpo{
+	width:960px;	
+	background-color:white;
+	margin: 20px auto 0px auto;
+	padding: 10px;
+    
+	}
+.principal{
+	display: block;
+	margin-right:4px;
+	float: right;
+	width: 600px;
+	background-color:white;
+	padding-left: 10px; 
+	border-left: 1px solid black;
+	height: 100%;
+	
+}
+.conteudo{
+	display:table;
+}
+body{
+	background-color: #dddddd;
+    font-family: 'Barrio', cursive;
+	font-family: 'Indie Flower', cursive;
+}
